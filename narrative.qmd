@@ -19,7 +19,7 @@ Data source: NOAA, 2024^3^\
 
 ### Figure 2. Average Locations of Three Fish and Shellfish Species in the Northeast, 1974–2022
 
-This map shows the annual centers of biomass for three species in the northeastern United States from 1974 to 2022. Dots are shaded from light to dark to show change over time.
+This chart shows the annual centers of biomass for three species in the northeastern United States from 1974 to 2022. Dots are shaded from light to dark to show change over time.
 
 Data source: NOAA, 2024^3^\
 *Web update:* *June 2024*
@@ -27,13 +27,14 @@ Data source: NOAA, 2024^3^\
 ### Figure 3. Average Locations of Three Fish and Shellfish Species in the Bering Sea, 1985–2022
 
 This map shows the annual centers of biomass for three species in the eastern Bering Sea from 1985 to 2022. Dots are shaded from light to dark to show change over time.
+This chart shows the annual centers of biomass for three species in the eastern Bering Sea from 1985 to 2022. Dots are shaded from light to dark to show change over time.
 
 Data source: NOAA, 2024^3^\
 *Web update:* *June 2024*
 
-### Figure 4. Average Locations of Three Fish Species in the Southeast, 1984–2019
+### Figure 4. Average Locations of Three Fish Species in the Southeast, 1989–2019
 
-This map shows the annual centers of biomass for three species in the southeastern United States from 1989 to 2019. Dots are shaded from light to dark to show change over time.
+This chart shows the annual centers of biomass for three species in the southeastern United States from 1989 to 2019. Dots are shaded from light to dark to show change over time.
 
 Data source: NOAA, 2024^3^\
 *Web update:* *June 2024*
