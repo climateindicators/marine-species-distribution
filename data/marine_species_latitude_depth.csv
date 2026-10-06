@@ -1,0 +1,289 @@
+year,region,variable,value,unit
+1989,Multi-Region Average,latitude,0,miles
+1990,Multi-Region Average,latitude,0.542221845,miles
+1991,Multi-Region Average,latitude,2.10822115,miles
+1992,Multi-Region Average,latitude,4.493353381,miles
+1993,Multi-Region Average,latitude,4.401345473,miles
+1994,Multi-Region Average,latitude,5.245865618,miles
+1995,Multi-Region Average,latitude,9.170240352,miles
+1996,Multi-Region Average,latitude,13.03945407,miles
+1997,Multi-Region Average,latitude,13.74659307,miles
+1998,Multi-Region Average,latitude,10.15685985,miles
+1999,Multi-Region Average,latitude,10.16364161,miles
+2000,Multi-Region Average,latitude,12.24457113,miles
+2001,Multi-Region Average,latitude,14.75838671,miles
+2002,Multi-Region Average,latitude,13.36078353,miles
+2003,Multi-Region Average,latitude,10.65082548,miles
+2004,Multi-Region Average,latitude,7.100229225,miles
+2005,Multi-Region Average,latitude,7.319359207,miles
+2006,Multi-Region Average,latitude,9.142837691,miles
+2007,Multi-Region Average,latitude,12.79596935,miles
+2008,Multi-Region Average,latitude,11.86429447,miles
+2009,Multi-Region Average,latitude,11.29716638,miles
+2010,Multi-Region Average,latitude,14.82221293,miles
+2011,Multi-Region Average,latitude,15.16921325,miles
+2012,Multi-Region Average,latitude,17.25610994,miles
+2013,Multi-Region Average,latitude,17.24032483,miles
+2014,Multi-Region Average,latitude,13.54982808,miles
+2015,Multi-Region Average,latitude,19.07187372,miles
+2016,Multi-Region Average,latitude,21.22375434,miles
+2017,Multi-Region Average,latitude,21.58492404,miles
+2018,Multi-Region Average,latitude,19.85505695,miles
+2019,Multi-Region Average,latitude,20.04921135,miles
+1989,Multi-Region Average,depth,0,feet
+1990,Multi-Region Average,depth,1.519905427,feet
+1991,Multi-Region Average,depth,1.850917545,feet
+1992,Multi-Region Average,depth,4.099632499,feet
+1993,Multi-Region Average,depth,4.913606605,feet
+1994,Multi-Region Average,depth,5.970208086,feet
+1995,Multi-Region Average,depth,5.045289492,feet
+1996,Multi-Region Average,depth,4.346187918,feet
+1997,Multi-Region Average,depth,1.584506002,feet
+1998,Multi-Region Average,depth,-0.702871248,feet
+1999,Multi-Region Average,depth,-2.57199361,feet
+2000,Multi-Region Average,depth,-2.830207049,feet
+2001,Multi-Region Average,depth,-1.883489171,feet
+2002,Multi-Region Average,depth,-0.805856664,feet
+2003,Multi-Region Average,depth,1.730511465,feet
+2004,Multi-Region Average,depth,3.717446403,feet
+2005,Multi-Region Average,depth,4.671431745,feet
+2006,Multi-Region Average,depth,4.911974857,feet
+2007,Multi-Region Average,depth,5.053647599,feet
+2008,Multi-Region Average,depth,5.521043452,feet
+2009,Multi-Region Average,depth,5.583911122,feet
+2010,Multi-Region Average,depth,4.320363904,feet
+2011,Multi-Region Average,depth,3.302669163,feet
+2012,Multi-Region Average,depth,1.872173167,feet
+2013,Multi-Region Average,depth,1.390073853,feet
+2014,Multi-Region Average,depth,-4.45109781,feet
+2015,Multi-Region Average,depth,1.928623164,feet
+2016,Multi-Region Average,depth,0.787906128,feet
+2017,Multi-Region Average,depth,1.546250321,feet
+2018,Multi-Region Average,depth,1.192208242,feet
+2019,Multi-Region Average,depth,2.400799337,feet
+1974,Northeast (Spring),latitude,-1.67169525,miles
+1976,Northeast (Spring),latitude,-10.62290734,miles
+1977,Northeast (Spring),latitude,-15.45565281,miles
+1978,Northeast (Spring),latitude,-17.07549214,miles
+1979,Northeast (Spring),latitude,-16.15741983,miles
+1980,Northeast (Spring),latitude,-13.63836102,miles
+1981,Northeast (Spring),latitude,-9.486109511,miles
+1982,Northeast (Spring),latitude,-7.638150598,miles
+1983,Northeast (Spring),latitude,-4.543491149,miles
+1984,Northeast (Spring),latitude,-4.657287366,miles
+1985,Northeast (Spring),latitude,-0.331224829,miles
+1986,Northeast (Spring),latitude,2.840763965,miles
+1987,Northeast (Spring),latitude,4.293255138,miles
+1988,Northeast (Spring),latitude,2.49712819,miles
+1989,Northeast (Spring),latitude,0,miles
+1990,Northeast (Spring),latitude,-1.337805317,miles
+1991,Northeast (Spring),latitude,-2.347102221,miles
+1992,Northeast (Spring),latitude,1.628027381,miles
+1993,Northeast (Spring),latitude,6.76221741,miles
+1994,Northeast (Spring),latitude,10.19552512,miles
+1995,Northeast (Spring),latitude,11.69410996,miles
+1996,Northeast (Spring),latitude,9.562339604,miles
+1997,Northeast (Spring),latitude,8.07844666,miles
+1998,Northeast (Spring),latitude,9.206788793,miles
+1999,Northeast (Spring),latitude,14.05313103,miles
+2000,Northeast (Spring),latitude,20.91148101,miles
+2001,Northeast (Spring),latitude,23.03656232,miles
+2002,Northeast (Spring),latitude,20.76448554,miles
+2003,Northeast (Spring),latitude,16.00135809,miles
+2004,Northeast (Spring),latitude,13.65173788,miles
+2005,Northeast (Spring),latitude,10.2892627,miles
+2006,Northeast (Spring),latitude,12.59032187,miles
+2007,Northeast (Spring),latitude,18.10705512,miles
+2008,Northeast (Spring),latitude,20.29183631,miles
+2009,Northeast (Spring),latitude,19.73340198,miles
+2010,Northeast (Spring),latitude,20.36569282,miles
+2011,Northeast (Spring),latitude,21.51374753,miles
+2012,Northeast (Spring),latitude,22.97701174,miles
+2013,Northeast (Spring),latitude,25.05371717,miles
+2015,Northeast (Spring),latitude,30.32943788,miles
+2016,Northeast (Spring),latitude,31.23827377,miles
+2017,Northeast (Spring),latitude,30.24704676,miles
+2018,Northeast (Spring),latitude,29.38768635,miles
+2019,Northeast (Spring),latitude,31.48017877,miles
+2021,Northeast (Spring),latitude,45.88587532,miles
+2022,Northeast (Spring),latitude,50.4226312,miles
+1974,Northeast (Spring),depth,-39.02135111,feet
+1976,Northeast (Spring),depth,-20.74287132,feet
+1977,Northeast (Spring),depth,-18.92316997,feet
+1978,Northeast (Spring),depth,-20.60005514,feet
+1979,Northeast (Spring),depth,-21.54672567,feet
+1980,Northeast (Spring),depth,-17.38978337,feet
+1981,Northeast (Spring),depth,-15.23739404,feet
+1982,Northeast (Spring),depth,-17.20332785,feet
+1983,Northeast (Spring),depth,-20.46146694,feet
+1984,Northeast (Spring),depth,-22.78514027,feet
+1985,Northeast (Spring),depth,-18.25280251,feet
+1986,Northeast (Spring),depth,-13.14962633,feet
+1987,Northeast (Spring),depth,-9.978069583,feet
+1988,Northeast (Spring),depth,-4.8160493,feet
+1989,Northeast (Spring),depth,0,feet
+1990,Northeast (Spring),depth,2.762745766,feet
+1991,Northeast (Spring),depth,4.797097438,feet
+1992,Northeast (Spring),depth,14.86371433,feet
+1993,Northeast (Spring),depth,20.72459227,feet
+1994,Northeast (Spring),depth,26.55256446,feet
+1995,Northeast (Spring),depth,22.15438909,feet
+1996,Northeast (Spring),depth,21.08054409,feet
+1997,Northeast (Spring),depth,12.62469763,feet
+1998,Northeast (Spring),depth,4.839092101,feet
+1999,Northeast (Spring),depth,-3.686632585,feet
+2000,Northeast (Spring),depth,-4.331783533,feet
+2001,Northeast (Spring),depth,-0.093924369,feet
+2002,Northeast (Spring),depth,6.676444702,feet
+2003,Northeast (Spring),depth,16.66142803,feet
+2004,Northeast (Spring),depth,22.7287881,feet
+2005,Northeast (Spring),depth,25.96280404,feet
+2006,Northeast (Spring),depth,26.22226507,feet
+2007,Northeast (Spring),depth,28.18728956,feet
+2008,Northeast (Spring),depth,29.30341493,feet
+2009,Northeast (Spring),depth,30.633085,feet
+2010,Northeast (Spring),depth,24.9797292,feet
+2011,Northeast (Spring),depth,20.48471012,feet
+2012,Northeast (Spring),depth,14.93140124,feet
+2013,Northeast (Spring),depth,15.59856559,feet
+2015,Northeast (Spring),depth,22.68241067,feet
+2016,Northeast (Spring),depth,19.77235949,feet
+2017,Northeast (Spring),depth,23.01086409,feet
+2018,Northeast (Spring),depth,21.90354672,feet
+2019,Northeast (Spring),depth,25.98496662,feet
+2021,Northeast (Spring),depth,32.3320184,feet
+2022,Northeast (Spring),depth,34.56683717,feet
+1985,Eastern Bering Sea,latitude,0.084611313,miles
+1987,Eastern Bering Sea,latitude,0.708580877,miles
+1988,Eastern Bering Sea,latitude,0.343211603,miles
+1989,Eastern Bering Sea,latitude,0,miles
+1990,Eastern Bering Sea,latitude,0.923649506,miles
+1991,Eastern Bering Sea,latitude,0.175665748,miles
+1992,Eastern Bering Sea,latitude,2.37467344,miles
+1993,Eastern Bering Sea,latitude,1.177796485,miles
+1994,Eastern Bering Sea,latitude,1.026135264,miles
+1995,Eastern Bering Sea,latitude,-0.449407901,miles
+1996,Eastern Bering Sea,latitude,0.321709961,miles
+1997,Eastern Bering Sea,latitude,-0.853511777,miles
+1998,Eastern Bering Sea,latitude,-2.176061445,miles
+1999,Eastern Bering Sea,latitude,-2.717330172,miles
+2000,Eastern Bering Sea,latitude,-0.259989331,miles
+2001,Eastern Bering Sea,latitude,4.162416298,miles
+2002,Eastern Bering Sea,latitude,7.643798215,miles
+2003,Eastern Bering Sea,latitude,9.340655423,miles
+2004,Eastern Bering Sea,latitude,10.4141924,miles
+2005,Eastern Bering Sea,latitude,11.0898935,miles
+2006,Eastern Bering Sea,latitude,11.59407858,miles
+2007,Eastern Bering Sea,latitude,10.77636711,miles
+2008,Eastern Bering Sea,latitude,9.210123182,miles
+2009,Eastern Bering Sea,latitude,7.994273304,miles
+2010,Eastern Bering Sea,latitude,8.67812473,miles
+2011,Eastern Bering Sea,latitude,7.361687358,miles
+2012,Eastern Bering Sea,latitude,6.118365644,miles
+2013,Eastern Bering Sea,latitude,4.804722247,miles
+2014,Eastern Bering Sea,latitude,6.596504561,miles
+2015,Eastern Bering Sea,latitude,8.77642846,miles
+2016,Eastern Bering Sea,latitude,11.27036925,miles
+2017,Eastern Bering Sea,latitude,12.93758877,miles
+2018,Eastern Bering Sea,latitude,14.10349619,miles
+2019,Eastern Bering Sea,latitude,15.47932436,miles
+2021,Eastern Bering Sea,latitude,15.83817301,miles
+2022,Eastern Bering Sea,latitude,17.66657781,miles
+1985,Eastern Bering Sea,depth,0.763296724,feet
+1987,Eastern Bering Sea,depth,-3.395050445,feet
+1988,Eastern Bering Sea,depth,-1.209226329,feet
+1989,Eastern Bering Sea,depth,0,feet
+1990,Eastern Bering Sea,depth,1.829107342,feet
+1991,Eastern Bering Sea,depth,1.520846982,feet
+1992,Eastern Bering Sea,depth,0.391158398,feet
+1993,Eastern Bering Sea,depth,-1.718109056,feet
+1994,Eastern Bering Sea,depth,-2.758298752,feet
+1995,Eastern Bering Sea,depth,-2.009903944,feet
+1996,Eastern Bering Sea,depth,-3.000455848,feet
+1997,Eastern Bering Sea,depth,-4.063698832,feet
+1998,Eastern Bering Sea,depth,-4.577935009,feet
+1999,Eastern Bering Sea,depth,-3.685154081,feet
+2000,Eastern Bering Sea,depth,-3.771995955,feet
+2001,Eastern Bering Sea,depth,-4.033961789,feet
+2002,Eastern Bering Sea,depth,-5.736471634,feet
+2003,Eastern Bering Sea,depth,-6.295681728,feet
+2004,Eastern Bering Sea,depth,-6.273239189,feet
+2005,Eastern Bering Sea,depth,-5.84600295,feet
+2006,Eastern Bering Sea,depth,-5.208832144,feet
+2007,Eastern Bering Sea,depth,-5.846167723,feet
+2008,Eastern Bering Sea,depth,-5.956512206,feet
+2009,Eastern Bering Sea,depth,-6.373900942,feet
+2010,Eastern Bering Sea,depth,-6.084977544,feet
+2011,Eastern Bering Sea,depth,-5.874074803,feet
+2012,Eastern Bering Sea,depth,-6.342924627,feet
+2013,Eastern Bering Sea,depth,-8.25126161,feet
+2014,Eastern Bering Sea,depth,-9.763845443,feet
+2015,Eastern Bering Sea,depth,-11.06257256,feet
+2016,Eastern Bering Sea,depth,-11.75614652,feet
+2017,Eastern Bering Sea,depth,-11.63328502,feet
+2018,Eastern Bering Sea,depth,-11.64538208,feet
+2019,Eastern Bering Sea,depth,-10.5792974,feet
+2021,Eastern Bering Sea,depth,-6.622969196,feet
+2022,Eastern Bering Sea,depth,-4.3864069,feet
+1989,Southeast (Spring),latitude,0,miles
+1990,Southeast (Spring),latitude,1.489778903,miles
+1991,Southeast (Spring),latitude,7.19022928,miles
+1992,Southeast (Spring),latitude,8.637522391,miles
+1993,Southeast (Spring),latitude,5.956002231,miles
+1994,Southeast (Spring),latitude,5.96669874,miles
+1995,Southeast (Spring),latitude,17.00577388,miles
+1996,Southeast (Spring),latitude,28.21515839,miles
+1997,Southeast (Spring),latitude,32.35349107,miles
+1998,Southeast (Spring),latitude,23.1613831,miles
+1999,Southeast (Spring),latitude,20.29514674,miles
+2000,Southeast (Spring),latitude,18.62252289,miles
+2001,Southeast (Spring),latitude,19.50254333,miles
+2002,Southeast (Spring),latitude,13.84411741,miles
+2003,Southeast (Spring),latitude,8.178722481,miles
+2004,Southeast (Spring),latitude,-0.844972826,miles
+2005,Southeast (Spring),latitude,1.449410377,miles
+2006,Southeast (Spring),latitude,4.254582125,miles
+2007,Southeast (Spring),latitude,11.06118337,miles
+2008,Southeast (Spring),latitude,8.561065502,miles
+2009,Southeast (Spring),latitude,8.636513595,miles
+2010,Southeast (Spring),latitude,17.04763431,miles
+2011,Southeast (Spring),latitude,18.49180975,miles
+2012,Southeast (Spring),latitude,24.34976849,miles
+2013,Southeast (Spring),latitude,24.1526673,miles
+2014,Southeast (Spring),latitude,20.5031516,miles
+2015,Southeast (Spring),latitude,21.4093857,miles
+2016,Southeast (Spring),latitude,24.09791018,miles
+2017,Southeast (Spring),latitude,24.10903462,miles
+2018,Southeast (Spring),latitude,18.86803486,miles
+2019,Southeast (Spring),latitude,16.53858689,miles
+1989,Southeast (Spring),depth,0,feet
+1990,Southeast (Spring),depth,0.332142191,feet
+1991,Southeast (Spring),depth,0.098345301,feet
+1992,Southeast (Spring),depth,0.199013924,feet
+1993,Southeast (Spring),depth,0.368588908,feet
+1994,Southeast (Spring),depth,0.149117891,feet
+1995,Southeast (Spring),depth,0.006120857,feet
+1996,Southeast (Spring),depth,-0.136629985,feet
+1997,Southeast (Spring),depth,-0.571563203,feet
+1998,Southeast (Spring),depth,-0.745403237,feet
+1999,Southeast (Spring),depth,-0.670900341,feet
+2000,Southeast (Spring),depth,-0.826959106,feet
+2001,Southeast (Spring),depth,-0.998052922,feet
+2002,Southeast (Spring),depth,-1.164455833,feet
+2003,Southeast (Spring),depth,-0.797909572,feet
+2004,Southeast (Spring),depth,0.269077091,feet
+2005,Southeast (Spring),depth,0.138070789,feet
+2006,Southeast (Spring),depth,-0.031391291,feet
+2007,Southeast (Spring),depth,-0.399629929,feet
+2008,Southeast (Spring),depth,0.186924507,feet
+2009,Southeast (Spring),depth,-0.16545176,feet
+2010,Southeast (Spring),depth,0.121670469,feet
+2011,Southeast (Spring),depth,0.333489334,feet
+2012,Southeast (Spring),depth,0.855745414,feet
+2013,Southeast (Spring),depth,0.987474462,feet
+2014,Southeast (Spring),depth,0.861646987,feet
+2015,Southeast (Spring),depth,0.249037771,feet
+2016,Southeast (Spring),depth,-0.088085177,feet
+2017,Southeast (Spring),depth,-0.447475526,feet
+2018,Southeast (Spring),depth,-0.610976237,feet
+2019,Southeast (Spring),depth,-1.290671359,feet

@@ -1,0 +1,415 @@
+year,species,variable,value,unit
+1974,American lobster,latitude,40.95936175,degrees
+1976,American lobster,latitude,41.32956683,degrees
+1977,American lobster,latitude,41.48423411,degrees
+1978,American lobster,latitude,41.47353586,degrees
+1979,American lobster,latitude,41.51859565,degrees
+1980,American lobster,latitude,41.53174781,degrees
+1981,American lobster,latitude,41.6025132,degrees
+1982,American lobster,latitude,41.55276249,degrees
+1983,American lobster,latitude,41.68318888,degrees
+1984,American lobster,latitude,41.70544769,degrees
+1985,American lobster,latitude,41.75899273,degrees
+1986,American lobster,latitude,41.70257357,degrees
+1987,American lobster,latitude,41.677141,degrees
+1988,American lobster,latitude,41.62393191,degrees
+1989,American lobster,latitude,41.72132589,degrees
+1990,American lobster,latitude,41.76092148,degrees
+1991,American lobster,latitude,41.84730946,degrees
+1992,American lobster,latitude,42.01925736,degrees
+1993,American lobster,latitude,42.33369605,degrees
+1994,American lobster,latitude,42.68012497,degrees
+1995,American lobster,latitude,42.81124591,degrees
+1996,American lobster,latitude,42.79194299,degrees
+1997,American lobster,latitude,42.65290342,degrees
+1998,American lobster,latitude,42.62509469,degrees
+1999,American lobster,latitude,42.65229179,degrees
+2000,American lobster,latitude,42.79003799,degrees
+2001,American lobster,latitude,42.81109686,degrees
+2002,American lobster,latitude,42.86149603,degrees
+2003,American lobster,latitude,42.82686248,degrees
+2004,American lobster,latitude,42.88339418,degrees
+2005,American lobster,latitude,42.9111427,degrees
+2006,American lobster,latitude,42.9337038,degrees
+2007,American lobster,latitude,42.94340622,degrees
+2008,American lobster,latitude,42.95925218,degrees
+2009,American lobster,latitude,43.01672437,degrees
+2010,American lobster,latitude,43.09212918,degrees
+2011,American lobster,latitude,43.15522852,degrees
+2012,American lobster,latitude,43.17708859,degrees
+2013,American lobster,latitude,43.21384187,degrees
+2015,American lobster,latitude,43.15204511,degrees
+2016,American lobster,latitude,43.10911516,degrees
+2017,American lobster,latitude,43.08979226,degrees
+2018,American lobster,latitude,43.07144076,degrees
+2019,American lobster,latitude,43.02131831,degrees
+2021,American lobster,latitude,42.89727667,degrees
+2022,American lobster,latitude,42.90642471,degrees
+1974,American lobster,longitude,-69.4066638,degrees
+1976,American lobster,longitude,-69.06430027,degrees
+1977,American lobster,longitude,-68.92804902,degrees
+1978,American lobster,longitude,-69.02761384,degrees
+1979,American lobster,longitude,-68.91487267,degrees
+1980,American lobster,longitude,-68.88400741,degrees
+1981,American lobster,longitude,-68.76230173,degrees
+1982,American lobster,longitude,-69.14172238,degrees
+1983,American lobster,longitude,-69.07056554,degrees
+1984,American lobster,longitude,-69.07723123,degrees
+1985,American lobster,longitude,-69.02546324,degrees
+1986,American lobster,longitude,-68.9670877,degrees
+1987,American lobster,longitude,-68.95852592,degrees
+1988,American lobster,longitude,-69.14983671,degrees
+1989,American lobster,longitude,-69.26087926,degrees
+1990,American lobster,longitude,-69.38243702,degrees
+1991,American lobster,longitude,-69.49556155,degrees
+1992,American lobster,longitude,-69.28299095,degrees
+1993,American lobster,longitude,-68.89900439,degrees
+1994,American lobster,longitude,-68.47817478,degrees
+1995,American lobster,longitude,-68.57546691,degrees
+1996,American lobster,longitude,-68.81363724,degrees
+1997,American lobster,longitude,-69.15555781,degrees
+1998,American lobster,longitude,-69.26973548,degrees
+1999,American lobster,longitude,-69.2013076,degrees
+2000,American lobster,longitude,-68.94531217,degrees
+2001,American lobster,longitude,-68.69014266,degrees
+2002,American lobster,longitude,-68.37283277,degrees
+2003,American lobster,longitude,-68.03673198,degrees
+2004,American lobster,longitude,-67.83089086,degrees
+2005,American lobster,longitude,-67.78618181,degrees
+2006,American lobster,longitude,-67.83903213,degrees
+2007,American lobster,longitude,-67.98096613,degrees
+2008,American lobster,longitude,-68.04219802,degrees
+2009,American lobster,longitude,-68.07975123,degrees
+2010,American lobster,longitude,-68.1439708,degrees
+2011,American lobster,longitude,-68.17613372,degrees
+2012,American lobster,longitude,-68.17494127,degrees
+2013,American lobster,longitude,-68.21737613,degrees
+2015,American lobster,longitude,-68.09228006,degrees
+2016,American lobster,longitude,-68.00641556,degrees
+2017,American lobster,longitude,-67.95997111,degrees
+2018,American lobster,longitude,-67.88134638,degrees
+2019,American lobster,longitude,-67.78444987,degrees
+2021,American lobster,longitude,-67.71052486,degrees
+2022,American lobster,longitude,-67.73265217,degrees
+1974,American lobster,change_in_latitude,0,miles
+1976,American lobster,change_in_latitude,25.54415062,miles
+1977,American lobster,change_in_latitude,36.21619314,miles
+1978,American lobster,change_in_latitude,35.47801358,miles
+1979,American lobster,change_in_latitude,38.5871391,miles
+1980,American lobster,change_in_latitude,39.49463782,miles
+1981,American lobster,change_in_latitude,44.37745001,miles
+1982,American lobster,change_in_latitude,40.94465074,miles
+1983,American lobster,change_in_latitude,49.94407214,miles
+1984,American lobster,change_in_latitude,51.47992967,miles
+1985,American lobster,change_in_latitude,55.1745374,miles
+1986,American lobster,change_in_latitude,51.28161561,miles
+1987,American lobster,change_in_latitude,49.52676841,miles
+1988,American lobster,change_in_latitude,45.85534092,miles
+1989,American lobster,change_in_latitude,52.57552576,miles
+1990,American lobster,change_in_latitude,55.30762128,miles
+1991,American lobster,change_in_latitude,61.26839176,miles
+1992,American lobster,change_in_latitude,73.13279701,miles
+1993,American lobster,change_in_latitude,94.82906652,miles
+1994,American lobster,change_in_latitude,118.7326622,miles
+1995,American lobster,change_in_latitude,127.7800072,miles
+1996,American lobster,change_in_latitude,126.4481052,miles
+1997,American lobster,change_in_latitude,116.8543752,miles
+1998,American lobster,change_in_latitude,114.935573,miles
+1999,American lobster,change_in_latitude,116.8121725,miles
+2000,American lobster,change_in_latitude,126.3166607,miles
+2001,American lobster,change_in_latitude,127.7697223,miles
+2002,American lobster,change_in_latitude,131.2472652,miles
+2003,American lobster,change_in_latitude,128.8575506,miles
+2004,American lobster,change_in_latitude,132.7582376,miles
+2005,American lobster,change_in_latitude,134.6728853,miles
+2006,American lobster,change_in_latitude,136.2296011,miles
+2007,American lobster,change_in_latitude,136.8990686,miles
+2008,American lobster,change_in_latitude,137.9924394,miles
+2009,American lobster,change_in_latitude,141.9580209,miles
+2010,American lobster,change_in_latitude,147.1609527,miles
+2011,American lobster,change_in_latitude,151.5148068,miles
+2012,American lobster,change_in_latitude,153.0231522,miles
+2013,American lobster,change_in_latitude,155.5591284,miles
+2015,American lobster,change_in_latitude,151.2951521,miles
+2016,American lobster,change_in_latitude,148.3329854,miles
+2017,American lobster,change_in_latitude,146.999705,miles
+2018,American lobster,change_in_latitude,145.7334517,miles
+2019,American lobster,change_in_latitude,142.2750023,miles
+2021,American lobster,change_in_latitude,133.7161298,miles
+2022,American lobster,change_in_latitude,134.3473443,miles
+1974,Black sea bass,latitude,37.5740798,degrees
+1976,Black sea bass,latitude,36.93315698,degrees
+1977,Black sea bass,latitude,36.85495634,degrees
+1978,Black sea bass,latitude,36.85750041,degrees
+1979,Black sea bass,latitude,36.92626796,degrees
+1980,Black sea bass,latitude,36.98255866,degrees
+1981,Black sea bass,latitude,37.09781112,degrees
+1982,Black sea bass,latitude,37.12797689,degrees
+1983,Black sea bass,latitude,37.25491167,degrees
+1984,Black sea bass,latitude,37.44648908,degrees
+1985,Black sea bass,latitude,37.74110319,degrees
+1986,Black sea bass,latitude,37.83724699,degrees
+1987,Black sea bass,latitude,37.71473154,degrees
+1988,Black sea bass,latitude,37.58041622,degrees
+1989,Black sea bass,latitude,37.51601565,degrees
+1990,Black sea bass,latitude,37.54160042,degrees
+1991,Black sea bass,latitude,37.55394869,degrees
+1992,Black sea bass,latitude,37.49177851,degrees
+1993,Black sea bass,latitude,37.52303114,degrees
+1994,Black sea bass,latitude,37.57733611,degrees
+1995,Black sea bass,latitude,37.72916267,degrees
+1996,Black sea bass,latitude,37.72370019,degrees
+1997,Black sea bass,latitude,37.70385477,degrees
+1998,Black sea bass,latitude,37.57892947,degrees
+1999,Black sea bass,latitude,37.66910949,degrees
+2000,Black sea bass,latitude,37.97863919,degrees
+2001,Black sea bass,latitude,38.25207493,degrees
+2002,Black sea bass,latitude,38.43568424,degrees
+2003,Black sea bass,latitude,38.45903763,degrees
+2004,Black sea bass,latitude,38.4796905,degrees
+2005,Black sea bass,latitude,38.47009529,degrees
+2006,Black sea bass,latitude,38.55829668,degrees
+2007,Black sea bass,latitude,38.74946452,degrees
+2008,Black sea bass,latitude,38.85649947,degrees
+2009,Black sea bass,latitude,38.81430527,degrees
+2010,Black sea bass,latitude,38.78909955,degrees
+2011,Black sea bass,latitude,38.82238829,degrees
+2012,Black sea bass,latitude,38.92909919,degrees
+2013,Black sea bass,latitude,39.02217545,degrees
+2015,Black sea bass,latitude,39.52332352,degrees
+2016,Black sea bass,latitude,39.67539457,degrees
+2017,Black sea bass,latitude,39.43086087,degrees
+2018,Black sea bass,latitude,39.30301331,degrees
+2019,Black sea bass,latitude,39.16442144,degrees
+2021,Black sea bass,latitude,39.47545999,degrees
+2022,Black sea bass,latitude,39.47165766,degrees
+1974,Black sea bass,longitude,-74.37565252,degrees
+1976,Black sea bass,longitude,-74.68837986,degrees
+1977,Black sea bass,longitude,-74.73775436,degrees
+1978,Black sea bass,longitude,-74.73528214,degrees
+1979,Black sea bass,longitude,-74.69837931,degrees
+1980,Black sea bass,longitude,-74.65075489,degrees
+1981,Black sea bass,longitude,-74.54492379,degrees
+1982,Black sea bass,longitude,-74.48292617,degrees
+1983,Black sea bass,longitude,-74.35596413,degrees
+1984,Black sea bass,longitude,-74.17998905,degrees
+1985,Black sea bass,longitude,-73.9586857,degrees
+1986,Black sea bass,longitude,-73.93902595,degrees
+1987,Black sea bass,longitude,-74.07696012,degrees
+1988,Black sea bass,longitude,-74.21454473,degrees
+1989,Black sea bass,longitude,-74.28405654,degrees
+1990,Black sea bass,longitude,-74.28677232,degrees
+1991,Black sea bass,longitude,-74.29549977,degrees
+1992,Black sea bass,longitude,-74.33961495,degrees
+1993,Black sea bass,longitude,-74.29783445,degrees
+1994,Black sea bass,longitude,-74.22345732,degrees
+1995,Black sea bass,longitude,-74.12663296,degrees
+1996,Black sea bass,longitude,-74.15548378,degrees
+1997,Black sea bass,longitude,-74.18953014,degrees
+1998,Black sea bass,longitude,-74.29805888,degrees
+1999,Black sea bass,longitude,-74.23002744,degrees
+2000,Black sea bass,longitude,-74.01142107,degrees
+2001,Black sea bass,longitude,-73.79343718,degrees
+2002,Black sea bass,longitude,-73.61598176,degrees
+2003,Black sea bass,longitude,-73.57142384,degrees
+2004,Black sea bass,longitude,-73.53231507,degrees
+2005,Black sea bass,longitude,-73.51998802,degrees
+2006,Black sea bass,longitude,-73.45355614,degrees
+2007,Black sea bass,longitude,-73.29365476,degrees
+2008,Black sea bass,longitude,-73.131152,degrees
+2009,Black sea bass,longitude,-73.13085021,degrees
+2010,Black sea bass,longitude,-73.16933945,degrees
+2011,Black sea bass,longitude,-73.16436794,degrees
+2012,Black sea bass,longitude,-73.08591953,degrees
+2013,Black sea bass,longitude,-73.00158774,degrees
+2015,Black sea bass,longitude,-72.5486579,degrees
+2016,Black sea bass,longitude,-72.44314301,degrees
+2017,Black sea bass,longitude,-72.62973777,degrees
+2018,Black sea bass,longitude,-72.74602,degrees
+2019,Black sea bass,longitude,-72.86565578,degrees
+2021,Black sea bass,longitude,-72.74903439,degrees
+2022,Black sea bass,longitude,-72.75936022,degrees
+1974,Black sea bass,change_in_latitude,0,miles
+1976,Black sea bass,change_in_latitude,-44.22367475,miles
+1977,Black sea bass,change_in_latitude,-49.61951855,miles
+1978,Black sea bass,change_in_latitude,-49.44397748,miles
+1979,Black sea bass,change_in_latitude,-44.69901677,miles
+1980,Black sea bass,change_in_latitude,-40.81495863,miles
+1981,Black sea bass,change_in_latitude,-32.86253849,miles
+1982,Black sea bass,change_in_latitude,-30.78110044,miles
+1983,Black sea bass,change_in_latitude,-22.0226006,miles
+1984,Black sea bass,change_in_latitude,-8.803759324,miles
+1985,Black sea bass,change_in_latitude,11.5246139,miles
+1986,Black sea bass,change_in_latitude,18.15853648,miles
+1987,Black sea bass,change_in_latitude,9.704969867,miles
+1988,Black sea bass,change_in_latitude,0.437212875,miles
+1989,Black sea bass,change_in_latitude,-4.006426122,miles
+1990,Black sea bass,change_in_latitude,-2.241077329,miles
+1991,Black sea bass,change_in_latitude,-1.389046686,miles
+1992,Black sea bass,change_in_latitude,-5.678788796,miles
+1993,Black sea bass,change_in_latitude,-3.522357481,miles
+1994,Black sea bass,change_in_latitude,0.224685828,miles
+1995,Black sea bass,change_in_latitude,10.70071783,miles
+1996,Black sea bass,change_in_latitude,10.32380685,miles
+1997,Black sea bass,change_in_latitude,8.95447279,miles
+1998,Black sea bass,change_in_latitude,0.334627659,miles
+1999,Black sea bass,change_in_latitude,6.557048784,miles
+2000,Black sea bass,change_in_latitude,27.91459834,miles
+2001,Black sea bass,change_in_latitude,46.78166417,miles
+2002,Black sea bass,change_in_latitude,59.45070634,miles
+2003,Black sea bass,change_in_latitude,61.06209069,miles
+2004,Black sea bass,change_in_latitude,62.48713846,miles
+2005,Black sea bass,change_in_latitude,61.82506895,miles
+2006,Black sea bass,change_in_latitude,67.91096512,miles
+2007,Black sea bass,change_in_latitude,81.10154572,miles
+2008,Black sea bass,change_in_latitude,88.48695715,miles
+2009,Black sea bass,change_in_latitude,85.57555749,miles
+2010,Black sea bass,change_in_latitude,83.83636317,miles
+2011,Black sea bass,change_in_latitude,86.13328562,miles
+2012,Black sea bass,change_in_latitude,93.49633783,miles
+2013,Black sea bass,change_in_latitude,99.91860007,miles
+2015,Black sea bass,change_in_latitude,134.497817,miles
+2016,Black sea bass,change_in_latitude,144.990719,miles
+2017,Black sea bass,change_in_latitude,128.1178936,miles
+2018,Black sea bass,change_in_latitude,119.2964123,miles
+2019,Black sea bass,change_in_latitude,109.7335733,miles
+2021,Black sea bass,change_in_latitude,131.1952333,miles
+2022,Black sea bass,change_in_latitude,130.9328723,miles
+1974,Red hake,latitude,41.08037195,degrees
+1976,Red hake,latitude,40.84373023,degrees
+1977,Red hake,latitude,40.74832123,degrees
+1978,Red hake,latitude,40.76420868,degrees
+1979,Red hake,latitude,40.9668424,degrees
+1980,Red hake,latitude,41.11277695,degrees
+1981,Red hake,latitude,41.30479682,degrees
+1982,Red hake,latitude,41.33894528,degrees
+1983,Red hake,latitude,41.52795261,degrees
+1984,Red hake,latitude,41.70461763,degrees
+1985,Red hake,latitude,41.83812087,degrees
+1986,Red hake,latitude,41.82290402,degrees
+1987,Red hake,latitude,41.84793935,degrees
+1988,Red hake,latitude,41.82836689,degrees
+1989,Red hake,latitude,41.80977923,degrees
+1990,Red hake,latitude,41.77445586,degrees
+1991,Red hake,latitude,41.84703486,degrees
+1992,Red hake,latitude,41.94988267,degrees
+1993,Red hake,latitude,42.05801289,degrees
+1994,Red hake,latitude,42.11121623,degrees
+1995,Red hake,latitude,42.09968895,degrees
+1996,Red hake,latitude,42.14909043,degrees
+1997,Red hake,latitude,42.19507062,degrees
+1998,Red hake,latitude,42.25146272,degrees
+1999,Red hake,latitude,42.30835455,degrees
+2000,Red hake,latitude,42.36435256,degrees
+2001,Red hake,latitude,42.34028139,degrees
+2002,Red hake,latitude,42.3684759,degrees
+2003,Red hake,latitude,42.36983374,degrees
+2004,Red hake,latitude,42.35979545,degrees
+2005,Red hake,latitude,42.19740435,degrees
+2006,Red hake,latitude,42.14434341,degrees
+2007,Red hake,latitude,41.96619535,degrees
+2008,Red hake,latitude,41.93816046,degrees
+2009,Red hake,latitude,41.85419823,degrees
+2010,Red hake,latitude,41.84497158,degrees
+2011,Red hake,latitude,41.82548653,degrees
+2012,Red hake,latitude,41.83635083,degrees
+2013,Red hake,latitude,41.97243317,degrees
+2015,Red hake,latitude,42.2802318,degrees
+2016,Red hake,latitude,42.32619701,degrees
+2017,Red hake,latitude,42.35098509,degrees
+2018,Red hake,latitude,42.38037437,degrees
+2019,Red hake,latitude,42.42942634,degrees
+2021,Red hake,latitude,42.56044293,degrees
+2022,Red hake,latitude,42.60374277,degrees
+1974,Red hake,longitude,-70.65739338,degrees
+1976,Red hake,longitude,-70.92271069,degrees
+1977,Red hake,longitude,-71.03444567,degrees
+1978,Red hake,longitude,-71.02900288,degrees
+1979,Red hake,longitude,-70.72974247,degrees
+1980,Red hake,longitude,-70.56901766,degrees
+1981,Red hake,longitude,-70.28567113,degrees
+1982,Red hake,longitude,-70.22871289,degrees
+1983,Red hake,longitude,-69.96741693,degrees
+1984,Red hake,longitude,-69.71422149,degrees
+1985,Red hake,longitude,-69.39845642,degrees
+1986,Red hake,longitude,-69.31354407,degrees
+1987,Red hake,longitude,-69.30437573,degrees
+1988,Red hake,longitude,-69.3688009,degrees
+1989,Red hake,longitude,-69.4294704,degrees
+1990,Red hake,longitude,-69.43546395,degrees
+1991,Red hake,longitude,-69.39114568,degrees
+1992,Red hake,longitude,-69.28903724,degrees
+1993,Red hake,longitude,-69.1510662,degrees
+1994,Red hake,longitude,-68.97874317,degrees
+1995,Red hake,longitude,-68.90868991,degrees
+1996,Red hake,longitude,-68.88982659,degrees
+1997,Red hake,longitude,-68.9743405,degrees
+1998,Red hake,longitude,-69.00155006,degrees
+1999,Red hake,longitude,-69.06886202,degrees
+2000,Red hake,longitude,-69.00309373,degrees
+2001,Red hake,longitude,-68.96147613,degrees
+2002,Red hake,longitude,-68.84470462,degrees
+2003,Red hake,longitude,-68.76540627,degrees
+2004,Red hake,longitude,-68.64621042,degrees
+2005,Red hake,longitude,-68.66777968,degrees
+2006,Red hake,longitude,-68.79720668,degrees
+2007,Red hake,longitude,-68.66472994,degrees
+2008,Red hake,longitude,-68.70749629,degrees
+2009,Red hake,longitude,-68.66115741,degrees
+2010,Red hake,longitude,-68.69963049,degrees
+2011,Red hake,longitude,-68.64505968,degrees
+2012,Red hake,longitude,-68.66857801,degrees
+2013,Red hake,longitude,-68.50825992,degrees
+2015,Red hake,longitude,-68.49276777,degrees
+2016,Red hake,longitude,-68.60060822,degrees
+2017,Red hake,longitude,-68.61801966,degrees
+2018,Red hake,longitude,-68.62502779,degrees
+2019,Red hake,longitude,-68.61624287,degrees
+2021,Red hake,longitude,-68.57477388,degrees
+2022,Red hake,longitude,-68.52452506,degrees
+1974,Red hake,change_in_latitude,0,miles
+1976,Red hake,change_in_latitude,-16.32827868,miles
+1977,Red hake,change_in_latitude,-22.9114997,miles
+1978,Red hake,change_in_latitude,-21.81526605,miles
+1979,Red hake,change_in_latitude,-7.833539453,miles
+1980,Red hake,change_in_latitude,2.235944838,miles
+1981,Red hake,change_in_latitude,15.48531589,miles
+1982,Red hake,change_in_latitude,17.84155959,miles
+1983,Red hake,change_in_latitude,30.88306527,miles
+1984,Red hake,change_in_latitude,43.07295138,miles
+1985,Red hake,change_in_latitude,52.28467559,miles
+1986,Red hake,change_in_latitude,51.23471294,miles
+1987,Red hake,change_in_latitude,52.96215009,miles
+1988,Red hake,change_in_latitude,51.61165048,miles
+1989,Red hake,change_in_latitude,50.32910229,miles
+1990,Red hake,change_in_latitude,47.89178926,miles
+1991,Red hake,change_in_latitude,52.89974051,miles
+1992,Red hake,change_in_latitude,59.99623951,miles
+1993,Red hake,change_in_latitude,67.45722457,miles
+1994,Red hake,change_in_latitude,71.12825485,miles
+1995,Red hake,change_in_latitude,70.33287261,miles
+1996,Red hake,change_in_latitude,73.74157517,miles
+1997,Red hake,change_in_latitude,76.9142083,miles
+1998,Red hake,change_in_latitude,80.80526297,miles
+1999,Red hake,change_in_latitude,84.73079899,miles
+2000,Red hake,change_in_latitude,88.59466213,miles
+2001,Red hake,change_in_latitude,86.9337511,miles
+2002,Red hake,change_in_latitude,88.87917244,miles
+2003,Red hake,change_in_latitude,88.97286342,miles
+2004,Red hake,change_in_latitude,88.28022144,miles
+2005,Red hake,change_in_latitude,77.0752352,miles
+2006,Red hake,change_in_latitude,73.41403052,miles
+2007,Red hake,change_in_latitude,61.1218147,miles
+2008,Red hake,change_in_latitude,59.18740709,miles
+2009,Red hake,change_in_latitude,53.39401315,miles
+2010,Red hake,change_in_latitude,52.75737431,miles
+2011,Red hake,change_in_latitude,51.41290565,miles
+2012,Red hake,change_in_latitude,52.16254225,miles
+2013,Red hake,change_in_latitude,61.5522238,miles
+2015,Red hake,change_in_latitude,82.79032915,miles
+2016,Red hake,change_in_latitude,85.96192924,miles
+2017,Red hake,change_in_latitude,87.67230654,miles
+2018,Red hake,change_in_latitude,89.70016659,miles
+2019,Red hake,change_in_latitude,93.08475262,miles
+2021,Red hake,change_in_latitude,102.1248974,miles
+2022,Red hake,change_in_latitude,105.1125865,miles

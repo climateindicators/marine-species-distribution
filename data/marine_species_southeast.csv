@@ -1,0 +1,280 @@
+year,species,variable,value,unit
+1989,Smooth butterfly ray,latitude,29.88996284,degrees
+1990,Smooth butterfly ray,latitude,29.73941341,degrees
+1991,Smooth butterfly ray,latitude,29.68074748,degrees
+1992,Smooth butterfly ray,latitude,29.74017252,degrees
+1993,Smooth butterfly ray,latitude,29.87376311,degrees
+1994,Smooth butterfly ray,latitude,29.8675231,degrees
+1995,Smooth butterfly ray,latitude,29.88318013,degrees
+1996,Smooth butterfly ray,latitude,30.14428328,degrees
+1997,Smooth butterfly ray,latitude,30.32477929,degrees
+1998,Smooth butterfly ray,latitude,30.28543871,degrees
+1999,Smooth butterfly ray,latitude,30.35989579,degrees
+2000,Smooth butterfly ray,latitude,30.78129636,degrees
+2001,Smooth butterfly ray,latitude,31.25953502,degrees
+2002,Smooth butterfly ray,latitude,31.00599549,degrees
+2003,Smooth butterfly ray,latitude,30.75843454,degrees
+2004,Smooth butterfly ray,latitude,30.14790022,degrees
+2005,Smooth butterfly ray,latitude,30.34705237,degrees
+2006,Smooth butterfly ray,latitude,30.90323622,degrees
+2007,Smooth butterfly ray,latitude,31.4081378,degrees
+2008,Smooth butterfly ray,latitude,31.91970071,degrees
+2009,Smooth butterfly ray,latitude,32.73938899,degrees
+2010,Smooth butterfly ray,latitude,33.70353874,degrees
+2011,Smooth butterfly ray,latitude,33.4755124,degrees
+2012,Smooth butterfly ray,latitude,32.66595025,degrees
+2013,Smooth butterfly ray,latitude,32.35482243,degrees
+2014,Smooth butterfly ray,latitude,31.5513386,degrees
+2015,Smooth butterfly ray,latitude,31.84323393,degrees
+2016,Smooth butterfly ray,latitude,32.13674609,degrees
+2017,Smooth butterfly ray,latitude,32.39739095,degrees
+2018,Smooth butterfly ray,latitude,32.18110158,degrees
+2019,Smooth butterfly ray,latitude,32.12474651,degrees
+1989,Smooth butterfly ray,longitude,-80.55388271,degrees
+1990,Smooth butterfly ray,longitude,-80.68203325,degrees
+1991,Smooth butterfly ray,longitude,-80.88326528,degrees
+1992,Smooth butterfly ray,longitude,-81.01121818,degrees
+1993,Smooth butterfly ray,longitude,-81.13583842,degrees
+1994,Smooth butterfly ray,longitude,-81.14508138,degrees
+1995,Smooth butterfly ray,longitude,-81.0984733,degrees
+1996,Smooth butterfly ray,longitude,-81.00799867,degrees
+1997,Smooth butterfly ray,longitude,-80.96441579,degrees
+1998,Smooth butterfly ray,longitude,-81.03927053,degrees
+1999,Smooth butterfly ray,longitude,-80.94259953,degrees
+2000,Smooth butterfly ray,longitude,-80.67664993,degrees
+2001,Smooth butterfly ray,longitude,-80.21741192,degrees
+2002,Smooth butterfly ray,longitude,-80.29602721,degrees
+2003,Smooth butterfly ray,longitude,-80.3552638,degrees
+2004,Smooth butterfly ray,longitude,-80.74710367,degrees
+2005,Smooth butterfly ray,longitude,-80.53705897,degrees
+2006,Smooth butterfly ray,longitude,-80.10034722,degrees
+2007,Smooth butterfly ray,longitude,-79.72093343,degrees
+2008,Smooth butterfly ray,longitude,-79.26412239,degrees
+2009,Smooth butterfly ray,longitude,-78.6159653,degrees
+2010,Smooth butterfly ray,longitude,-77.71196376,degrees
+2011,Smooth butterfly ray,longitude,-77.97051764,degrees
+2012,Smooth butterfly ray,longitude,-78.72790769,degrees
+2013,Smooth butterfly ray,longitude,-79.04365385,degrees
+2014,Smooth butterfly ray,longitude,-79.85511675,degrees
+2015,Smooth butterfly ray,longitude,-79.62450563,degrees
+2016,Smooth butterfly ray,longitude,-79.41312686,degrees
+2017,Smooth butterfly ray,longitude,-79.15652123,degrees
+2018,Smooth butterfly ray,longitude,-79.40273658,degrees
+2019,Smooth butterfly ray,longitude,-79.49274167,degrees
+1989,Smooth butterfly ray,change_in_latitude,0,miles
+1990,Smooth butterfly ray,change_in_latitude,-10.38791078,miles
+1991,Smooth butterfly ray,change_in_latitude,-14.43585992,miles
+1992,Smooth butterfly ray,change_in_latitude,-10.33553236,miles
+1993,Smooth butterfly ray,change_in_latitude,-1.117781653,miles
+1994,Smooth butterfly ray,change_in_latitude,-1.548342472,miles
+1995,Smooth butterfly ray,change_in_latitude,-0.468007214,miles
+1996,Smooth butterfly ray,change_in_latitude,17.54810999,miles
+1997,Smooth butterfly ray,change_in_latitude,30.0023346,miles
+1998,Smooth butterfly ray,change_in_latitude,27.28783477,miles
+1999,Smooth butterfly ray,change_in_latitude,32.42537358,miles
+2000,Smooth butterfly ray,change_in_latitude,61.50201297,miles
+2001,Smooth butterfly ray,change_in_latitude,94.50048015,miles
+2002,Smooth butterfly ray,change_in_latitude,77.00625237,miles
+2003,Smooth butterfly ray,change_in_latitude,59.92454698,miles
+2004,Smooth butterfly ray,change_in_latitude,17.79767894,miles
+2005,Smooth butterfly ray,change_in_latitude,31.53917728,miles
+2006,Smooth butterfly ray,change_in_latitude,69.91586276,miles
+2007,Smooth butterfly ray,change_in_latitude,104.7540722,miles
+2008,Smooth butterfly ray,change_in_latitude,140.0519126,miles
+2009,Smooth butterfly ray,change_in_latitude,196.6104044,miles
+2010,Smooth butterfly ray,change_in_latitude,263.1367368,miles
+2011,Smooth butterfly ray,change_in_latitude,247.4029193,miles
+2012,Smooth butterfly ray,change_in_latitude,191.543131,miles
+2013,Smooth butterfly ray,change_in_latitude,170.0753115,miles
+2014,Smooth butterfly ray,change_in_latitude,114.6349276,miles
+2015,Smooth butterfly ray,change_in_latitude,134.7757052,miles
+2016,Smooth butterfly ray,change_in_latitude,155.028044,miles
+2017,Smooth butterfly ray,change_in_latitude,173.0125392,miles
+2018,Smooth butterfly ray,change_in_latitude,158.088573,miles
+2019,Smooth butterfly ray,change_in_latitude,154.2000734,miles
+1989,Banded drum,latitude,30.01343394,degrees
+1990,Banded drum,latitude,29.94784938,degrees
+1991,Banded drum,latitude,30.02296791,degrees
+1992,Banded drum,latitude,30.04953989,degrees
+1993,Banded drum,latitude,30.30387278,degrees
+1994,Banded drum,latitude,30.46306298,degrees
+1995,Banded drum,latitude,30.32549746,degrees
+1996,Banded drum,latitude,30.45358111,degrees
+1997,Banded drum,latitude,30.8506318,degrees
+1998,Banded drum,latitude,30.79065653,degrees
+1999,Banded drum,latitude,30.61286376,degrees
+2000,Banded drum,latitude,30.96829208,degrees
+2001,Banded drum,latitude,31.17481206,degrees
+2002,Banded drum,latitude,31.2199832,degrees
+2003,Banded drum,latitude,31.10692285,degrees
+2004,Banded drum,latitude,30.34697547,degrees
+2005,Banded drum,latitude,30.70140766,degrees
+2006,Banded drum,latitude,31.15498324,degrees
+2007,Banded drum,latitude,32.2935263,degrees
+2008,Banded drum,latitude,32.79001247,degrees
+2009,Banded drum,latitude,33.0102037,degrees
+2010,Banded drum,latitude,32.97554512,degrees
+2011,Banded drum,latitude,32.76882397,degrees
+2012,Banded drum,latitude,32.6407158,degrees
+2013,Banded drum,latitude,32.73760566,degrees
+2014,Banded drum,latitude,32.62227119,degrees
+2015,Banded drum,latitude,32.46744306,degrees
+2016,Banded drum,latitude,32.09960197,degrees
+2017,Banded drum,latitude,31.62769876,degrees
+2018,Banded drum,latitude,31.62273745,degrees
+2019,Banded drum,latitude,31.6735746,degrees
+1989,Banded drum,longitude,-81.06206954,degrees
+1990,Banded drum,longitude,-81.01146089,degrees
+1991,Banded drum,longitude,-80.95203291,degrees
+1992,Banded drum,longitude,-81.05899251,degrees
+1993,Banded drum,longitude,-81.05952929,degrees
+1994,Banded drum,longitude,-81.04966612,degrees
+1995,Banded drum,longitude,-81.18495101,degrees
+1996,Banded drum,longitude,-81.16846384,degrees
+1997,Banded drum,longitude,-80.92621411,degrees
+1998,Banded drum,longitude,-80.96163099,degrees
+1999,Banded drum,longitude,-81.02668691,degrees
+2000,Banded drum,longitude,-80.65274784,degrees
+2001,Banded drum,longitude,-80.60114679,degrees
+2002,Banded drum,longitude,-80.71622165,degrees
+2003,Banded drum,longitude,-80.87998517,degrees
+2004,Banded drum,longitude,-80.88421844,degrees
+2005,Banded drum,longitude,-80.61210426,degrees
+2006,Banded drum,longitude,-80.29824032,degrees
+2007,Banded drum,longitude,-79.35913861,degrees
+2008,Banded drum,longitude,-79.00239874,degrees
+2009,Banded drum,longitude,-79.00255764,degrees
+2010,Banded drum,longitude,-79.18691375,degrees
+2011,Banded drum,longitude,-79.45733323,degrees
+2012,Banded drum,longitude,-79.53984321,degrees
+2013,Banded drum,longitude,-79.33173347,degrees
+2014,Banded drum,longitude,-79.38370442,degrees
+2015,Banded drum,longitude,-79.48373513,degrees
+2016,Banded drum,longitude,-80.0023011,degrees
+2017,Banded drum,longitude,-80.46823494,degrees
+2018,Banded drum,longitude,-80.51280413,degrees
+2019,Banded drum,longitude,-80.46329718,degrees
+1989,Banded drum,change_in_latitude,0,miles
+1990,Banded drum,change_in_latitude,-4.525334846,miles
+1991,Banded drum,change_in_latitude,0.657844098,miles
+1992,Banded drum,change_in_latitude,2.49131046,miles
+1993,Banded drum,change_in_latitude,20.04027953,miles
+1994,Banded drum,change_in_latitude,31.02440338,miles
+1995,Banded drum,change_in_latitude,21.53238294,miles
+1996,Banded drum,change_in_latitude,30.37015465,miles
+1997,Banded drum,change_in_latitude,57.76665224,miles
+1998,Banded drum,change_in_latitude,53.62835875,miles
+1999,Banded drum,change_in_latitude,41.36065734,miles
+2000,Banded drum,change_in_latitude,65.88521186,miles
+2001,Banded drum,change_in_latitude,80.13509047,miles
+2002,Banded drum,change_in_latitude,83.25189876,miles
+2003,Banded drum,change_in_latitude,75.45073472,miles
+2004,Banded drum,change_in_latitude,23.01436541,miles
+2005,Banded drum,change_in_latitude,47.47018688,miles
+2006,Banded drum,change_in_latitude,78.76690161,miles
+2007,Banded drum,change_in_latitude,157.3263724,miles
+2008,Banded drum,change_in_latitude,191.5839184,miles
+2009,Banded drum,change_in_latitude,206.7771134,miles
+2010,Banded drum,change_in_latitude,204.3856714,miles
+2011,Banded drum,change_in_latitude,190.121912,miles
+2012,Banded drum,change_in_latitude,181.2824482,miles
+2013,Banded drum,change_in_latitude,187.9678488,miles
+2014,Banded drum,change_in_latitude,180.0097703,miles
+2015,Banded drum,change_in_latitude,169.3266292,miles
+2016,Banded drum,change_in_latitude,143.9455937,miles
+2017,Banded drum,change_in_latitude,111.3842726,miles
+2018,Banded drum,change_in_latitude,111.0419422,miles
+2019,Banded drum,change_in_latitude,114.5497052,miles
+1989,Atlantic croaker,latitude,31.61116918,degrees
+1990,Atlantic croaker,latitude,31.87100894,degrees
+1991,Atlantic croaker,latitude,32.23383942,degrees
+1992,Atlantic croaker,latitude,32.7891161,degrees
+1993,Atlantic croaker,latitude,33.14309943,degrees
+1994,Atlantic croaker,latitude,33.64997944,degrees
+1995,Atlantic croaker,latitude,33.69668884,degrees
+1996,Atlantic croaker,latitude,33.7731616,degrees
+1997,Atlantic croaker,latitude,33.81714372,degrees
+1998,Atlantic croaker,latitude,33.85015545,degrees
+1999,Atlantic croaker,latitude,33.82911465,degrees
+2000,Atlantic croaker,latitude,33.97234216,degrees
+2001,Atlantic croaker,latitude,33.99365198,degrees
+2002,Atlantic croaker,latitude,34.04054697,degrees
+2003,Atlantic croaker,latitude,33.97165045,degrees
+2004,Atlantic croaker,latitude,33.98376705,degrees
+2005,Atlantic croaker,latitude,34.10352772,degrees
+2006,Atlantic croaker,latitude,34.09332715,degrees
+2007,Atlantic croaker,latitude,34.02614283,degrees
+2008,Atlantic croaker,latitude,33.9821016,degrees
+2009,Atlantic croaker,latitude,33.93902996,degrees
+2010,Atlantic croaker,latitude,34.02806951,degrees
+2011,Atlantic croaker,latitude,34.05629824,degrees
+2012,Atlantic croaker,latitude,34.05953416,degrees
+2013,Atlantic croaker,latitude,34.00490352,degrees
+2014,Atlantic croaker,latitude,33.99779259,degrees
+2015,Atlantic croaker,latitude,33.98617563,degrees
+2016,Atlantic croaker,latitude,34.01841505,degrees
+2017,Atlantic croaker,latitude,33.88101203,degrees
+2018,Atlantic croaker,latitude,33.68851976,degrees
+2019,Atlantic croaker,latitude,33.27559673,degrees
+1989,Atlantic croaker,longitude,-79.64833674,degrees
+1990,Atlantic croaker,longitude,-79.50268259,degrees
+1991,Atlantic croaker,longitude,-79.29645211,degrees
+1992,Atlantic croaker,longitude,-78.85669831,degrees
+1993,Atlantic croaker,longitude,-78.56413686,degrees
+1994,Atlantic croaker,longitude,-78.10649274,degrees
+1995,Atlantic croaker,longitude,-78.07334818,degrees
+1996,Atlantic croaker,longitude,-78.06623785,degrees
+1997,Atlantic croaker,longitude,-78.04537408,degrees
+1998,Atlantic croaker,longitude,-77.98424915,degrees
+1999,Atlantic croaker,longitude,-77.99609754,degrees
+2000,Atlantic croaker,longitude,-77.87267255,degrees
+2001,Atlantic croaker,longitude,-77.84581706,degrees
+2002,Atlantic croaker,longitude,-77.81910176,degrees
+2003,Atlantic croaker,longitude,-77.89638683,degrees
+2004,Atlantic croaker,longitude,-77.84533209,degrees
+2005,Atlantic croaker,longitude,-77.64434544,degrees
+2006,Atlantic croaker,longitude,-77.65862914,degrees
+2007,Atlantic croaker,longitude,-77.81573626,degrees
+2008,Atlantic croaker,longitude,-77.8851742,degrees
+2009,Atlantic croaker,longitude,-77.92820202,degrees
+2010,Atlantic croaker,longitude,-77.81237347,degrees
+2011,Atlantic croaker,longitude,-77.75032478,degrees
+2012,Atlantic croaker,longitude,-77.74243849,degrees
+2013,Atlantic croaker,longitude,-77.85153328,degrees
+2014,Atlantic croaker,longitude,-77.89578332,degrees
+2015,Atlantic croaker,longitude,-77.93525308,degrees
+2016,Atlantic croaker,longitude,-77.92395679,degrees
+2017,Atlantic croaker,longitude,-78.06913203,degrees
+2018,Atlantic croaker,longitude,-78.21837388,degrees
+2019,Atlantic croaker,longitude,-78.55822053,degrees
+1989,Atlantic croaker,change_in_latitude,0,miles
+1990,Atlantic croaker,change_in_latitude,17.92894327,miles
+1991,Atlantic croaker,change_in_latitude,42.96424637,miles
+1992,Atlantic croaker,change_in_latitude,81.27833774,miles
+1993,Atlantic croaker,change_in_latitude,105.7031873,miles
+1994,Atlantic croaker,change_in_latitude,140.6779081,miles
+1995,Atlantic croaker,change_in_latitude,143.9008566,miles
+1996,Atlantic croaker,change_in_latitude,149.1774772,miles
+1997,Atlantic croaker,change_in_latitude,152.2122436,miles
+1998,Atlantic croaker,change_in_latitude,154.490053,miles
+1999,Atlantic croaker,change_in_latitude,153.0382372,miles
+2000,Atlantic croaker,change_in_latitude,162.9209357,miles
+2001,Atlantic croaker,change_in_latitude,164.391313,miles
+2002,Atlantic croaker,change_in_latitude,167.6270675,miles
+2003,Atlantic croaker,change_in_latitude,162.8732077,miles
+2004,Atlantic croaker,change_in_latitude,163.7092532,miles
+2005,Atlantic croaker,change_in_latitude,171.9727392,miles
+2006,Atlantic croaker,change_in_latitude,171.2689003,miles
+2007,Atlantic croaker,change_in_latitude,166.6331818,miles
+2008,Atlantic croaker,change_in_latitude,163.5943368,miles
+2009,Atlantic croaker,change_in_latitude,160.622394,miles
+2010,Atlantic croaker,change_in_latitude,166.7661229,miles
+2011,Atlantic croaker,change_in_latitude,168.7139053,miles
+2012,Atlantic croaker,change_in_latitude,168.937184,miles
+2013,Atlantic croaker,change_in_latitude,165.1676694,miles
+2014,Atlantic croaker,change_in_latitude,164.6770153,miles
+2015,Atlantic croaker,change_in_latitude,163.8754454,miles
+2016,Atlantic croaker,change_in_latitude,166.0999651,miles
+2017,Atlantic croaker,change_in_latitude,156.6191566,miles
+2018,Atlantic croaker,change_in_latitude,143.3371902,miles
+2019,Atlantic croaker,change_in_latitude,114.8455009,miles

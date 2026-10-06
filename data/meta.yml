@@ -1,0 +1,119 @@
+indicator:
+  name: Marine Species Distribution
+  slug: marine-species-distribution
+  publisher: U.S. Environmental Protection Agency
+  source_page: https://19january2025snapshot.epa.gov/climate-indicators/climate-change-indicators-marine-species-distribution/index.html
+  technical_documentation: https://19january2025snapshot.epa.gov/system/files/documents/2024-06/marine-species_documentation.pdf
+  rights: Public domain, work of the U.S. Government (17 U.S.C. 105)
+datasets:
+- file: marine_species_latitude_depth.csv
+  figure: Figure 1
+  figure_title: Figure 1. Change in Latitude and Depth of Marine Species, 1974–2022
+  source_file: marine-species_fig-1.csv
+  source_sha256: dc90d5df24aa7fb94f8c1d040152ac68eb95dc64f84603c6e861b5fbc0afe62c
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: miles (average distance moved); feet (average change in depth)
+  rows: 288
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year of the observation.
+  - name: region
+    type: string
+    description: Survey region (Figure 1 only).
+  - name: variable
+    type: string
+    description: 'Measure: latitude, depth, longitude, or change_in_latitude.'
+  - name: value
+    type: number
+    description: Value of the measure, in the unit given by the unit column, as published
+      by EPA.
+  - name: unit
+    type: string
+    description: 'Unit of value: miles, feet, or degrees.'
+- file: marine_species_northeast.csv
+  figure: Figure 2
+  figure_title: Figure 2. Average Location of Three Fish and Shellfish Species in
+    the Northeast, 1974–2022
+  source_file: marine-species_fig-2.csv
+  source_sha256: 43512df7f592ad77098af00973ae63b901d7f0db98b19022da84e0589f7a8530
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: degrees; degrees; miles
+  rows: 414
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year of the observation.
+  - name: species
+    type: string
+    description: Fish or shellfish species (Figures 2-4).
+  - name: variable
+    type: string
+    description: 'Measure: latitude, depth, longitude, or change_in_latitude.'
+  - name: value
+    type: number
+    description: Value of the measure, in the unit given by the unit column, as published
+      by EPA.
+  - name: unit
+    type: string
+    description: 'Unit of value: miles, feet, or degrees.'
+- file: marine_species_bering_sea.csv
+  figure: Figure 3
+  figure_title: Figure 3. Average Location of Three Fish and Shellfish Species in
+    the Bering Sea, 1985–2022
+  source_file: marine-species_fig-3.csv
+  source_sha256: b00ee076eb3b40b86e676d111b7815d97ec6b784e770319c783667980afea68d
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: degrees; degrees; miles
+  rows: 324
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year of the observation.
+  - name: species
+    type: string
+    description: Fish or shellfish species (Figures 2-4).
+  - name: variable
+    type: string
+    description: 'Measure: latitude, depth, longitude, or change_in_latitude.'
+  - name: value
+    type: number
+    description: Value of the measure, in the unit given by the unit column, as published
+      by EPA.
+  - name: unit
+    type: string
+    description: 'Unit of value: miles, feet, or degrees.'
+- file: marine_species_southeast.csv
+  figure: Figure 4
+  figure_title: Figure 4. Average Location of Three Fish and Shellfish Species in
+    the Southeast, 1989–2019
+  source_file: marine-species_fig-4.csv
+  source_sha256: b67d09f202957163c90eec6df0b5abc6e5ce7fa25238a49153027d7dccf52c10
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: degrees; degrees; miles
+  rows: 279
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year of the observation.
+  - name: species
+    type: string
+    description: Fish or shellfish species (Figures 2-4).
+  - name: variable
+    type: string
+    description: 'Measure: latitude, depth, longitude, or change_in_latitude.'
+  - name: value
+    type: number
+    description: Value of the measure, in the unit given by the unit column, as published
+      by EPA.
+  - name: unit
+    type: string
+    description: 'Unit of value: miles, feet, or degrees.'
